@@ -13,7 +13,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@layer0/react": "^3.2.0",
+    "@layer0/react": "^3.17.7",
     "next": "^11.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
